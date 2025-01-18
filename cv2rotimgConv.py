@@ -18,10 +18,10 @@ import re
 print("STARTING ### ...")
 
 
-### PATHS AND CONFIG
-input_Dir = "orgimg/"
-output_Dir = "normalizedimg/"
-labels_File = "labels.json"
+### PATHS
+input_Dir = "orgimg/"                           #IMAGENES ORIGINALES
+output_Dir = "normalizedimg/"                   #IMAGENES NORMALIZADAS
+labels_File = "labels.json"                     #TAGS RELACIONADAS
 os.makedirs(output_Dir, exist_ok=True)
 target_Size = (190,190)
 
