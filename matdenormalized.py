@@ -11,6 +11,7 @@ import numpy as np
 
 
 # Path to the .npy file
+# Para poder colocar varias rutas a la ves
 npy_file_path = "normalizedimg/cuadrado2.npy"
 npy_file_path2 = "normalizedimg/t1o.npy"
 # Load the .npy file
