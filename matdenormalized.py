@@ -31,7 +31,7 @@ plt.show()
 #############################################################
 
 
-
+#Es una parte de codigo para inyectar en una aumentacion de datos.
 import matplotlib.pyplot as plt
 
 # Obtener un lote de imágenes aumentadas
